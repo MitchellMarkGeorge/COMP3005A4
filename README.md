@@ -78,4 +78,4 @@ DELETE from students WHERE student_id = $1;
 It displays a successfull message if there is no error and in the case of an error executing the query, the error itself will be printed out along with an error message.
 
 ### Video demonstration
-Here is the link to the video demonstation: 
+[Here](https://youtu.be/XWbUhUaT3XA) is the link to the video demonstation.
